@@ -1,6 +1,5 @@
 <template>
   <div class="login">
-    发哈哈哈哈哈sdfsdfsdfsdfsdfsdf
     <LoginPanel></LoginPanel>
   </div>
 </template>
